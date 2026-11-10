@@ -1,6 +1,6 @@
 
 apiVersion: apps/v1
-kind: backend
+kind: Deployment
 metadata:
   name: backend-deployment
   labels:
