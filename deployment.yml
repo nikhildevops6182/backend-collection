@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: backend-app
-          image: snk6182/url-shortener-springboot-maven:v1
+          image: snk6182/backend-collection:v1
           imagePullPolicy: Always
           ports:
             - containerPort: 8000
