@@ -1,5 +1,5 @@
 
-name: Java Application Build and Kubernetes Deploy
+name: backend-deployment
 
 on:
   push:
